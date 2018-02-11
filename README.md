@@ -10,4 +10,4 @@ test repo
 # Hello Cloud Gurus
 
 
-^ testing merge?
+* testing merge?
